@@ -6,5 +6,6 @@ Effects are controlled by moving the mouse and the video is closed by pressing q
 
 
 Example of what this script can do:
-https://github.com/user-attachments/assets/88bee1ab-bb13-4408-9137-ae1004fd8287
 
+
+![ezgif-8ab12ee3cf3e6d](https://github.com/user-attachments/assets/e6241da4-2a4c-4e04-8e93-b5b769031234)
